@@ -8,6 +8,6 @@ This component runs on a remote server and gathers metrics of the same. It is no
 Most likely will be a simple CLI client to obtain the data of the server component and display those to the user.
 
 # Further READMEs
-This projects contains Java projects for the server and client part. See their READMEs:
-[Server](./server/README.md)
+This projects contains Java projects for the server and client part. See their READMEs:  
+[Server](./server/README.md)  
 [Client](./client/README.md)
